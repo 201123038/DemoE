@@ -1,0 +1,16 @@
+// EJEMPLO 1
+
+{
+	"latino":false, 
+	"text": "Guatemala", 
+	"sortby":2, 
+	"news":true, 
+	"blogs":true, 
+	"discussions":true, 
+	"reviews":false, 
+	"language":"english;spanish", 
+	"country":"", 
+	"location":"", 
+	"category":0, 
+	"date":"1551327959181"
+}
